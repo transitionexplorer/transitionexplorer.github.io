@@ -1,0 +1,135 @@
+[
+    {
+        "zh_name": "变形",
+        "en_name": "Morph",
+        "zh_how": "逐渐将可视化元素的形状从一个更改为另一个",
+        "en_how": "Gradually change the shape of visualization elements from one to another",
+        "zh_why": "新旧数据事实的可视化元素之间的无缝转换。强调两个数据事实之间的对应关系",
+        "en_why": "Seamless transition between visualization elements of old and new data facts. Emphasis the corresponding relationship between two data facts.",
+        "example_num": 2,
+        "editorial": ["Visualization"],
+        "index": 1
+    },
+    {
+        "zh_name": "叠化",
+        "en_name": "Lap Dissolve",
+        "zh_how": "旧场景淡出，新场景进入并重叠在旧场景之上",
+        "en_how": "After the old scene faded out halfway and stopped, the new scene fades in and overlaps on top of the old scene",
+        "zh_why": "减轻查找两个数据事实之间的差异或对应关系的难度",
+        "en_why": "Ease the difficulty for finding the difference or the correspondence between two data facts",
+        "example_num": 1,
+        "editorial": ["Visualization", "Frame"],
+        "index": 2
+    },
+    {
+        "zh_name": "匹配剪辑",
+        "en_name": "Match Cut",
+        "zh_how": "在转场过程中保持视觉相似性（例如颜色、形状、位置）",
+        "en_how": "Maintaining visual similarities (e.g., color, shape, position) during the transition",
+        "zh_why": "通过建立视觉连接来数据的跳跃性",
+        "en_why": "Smooth over the inherent discontinuity by building visual connections",
+        "example_num": 1,
+        "editorial": ["Visualization", "Embellishment"],
+        "index": 3
+    },
+    {
+        "zh_name": "动作剪辑",
+        "en_name": "Cut on Action",
+        "zh_how": "旧数据事实的一个或多个元素移动（例如，飞行、下降）到新数据事实并停留/淡出/更改为新数据事实中的可视化元素",
+        "en_how": "One or more elements of the old data fact move (e.g., fly, drop) to the new data fact and stay/fade out/change into visualization elements in the new data fact",
+        "zh_why": "通过元素的移动转移观众的注意力",
+        "en_why": "Shift viewers' attention via the movement of objects",
+        "example_num": 2,
+        "editorial": ["Visualization", "Embellishment"],
+
+        "index": 4
+    },
+    {
+        "zh_name": "镜头摇摄",
+        "en_name": "Tilt & Pan",
+        "zh_how": "沿一个方向移动相机。在相机移动期间，旧数据事实消失，新数据事实出现",
+        "en_how": "Moving the camera along one direction. During the camera movement, the old data fact diappears and the new data fact occurs.",
+        "zh_why": "用相机的移动来暗示场景的变化",
+        "en_why": "Use camera movement to suggest scene changes",
+        "example_num": 0,
+        "editorial": ["Camera"],
+        "index": 5
+    },
+    {
+        "zh_name": "特写镜头",
+        "en_name": "Insert Shot",
+        "zh_how": "相机靠近并聚焦在旧数据事实的一个元素上 (聚焦元素可能发生变化以呈现新的数据事实)",
+        "en_how": "The camera moves close to and focuses on an element in the old data fact (the focused element may changes to present the new data fact)",
+        "zh_why": "将观众的注意力吸引到重要的元素上",
+        "en_why": "Bring audience's attention to the elements of interest",
+        "example_num": 0,
+        "editorial": ["Camera"],
+        "index": 6
+    },
+    {
+        "zh_name": "隐藏镜头",
+        "en_name": "Invisible Cut",
+        "zh_how": "相机移动直到原始场景中的元素难以观察（例如，移动太近而无法看到），然后切换到新的数据事实",
+        "en_how": "The camera moves until elements in the original scene are hard to observe (e.g., Move too close to see), then change to the new data fact.",
+        "zh_why": "将观众的注意力吸引到重要的元素上",
+        "en_why": "Bring audience's attention to the elements of interest",
+        "example_num": 1,
+        "editorial": ["Camera"],
+        "index": 7
+    },
+    {
+        "zh_name": "定场镜头",
+        "en_name": "Estabilishing Shot",
+        "zh_how": "相机向后移动以显示更大的场景；新数据事实的元素出现在更大的场景中",
+        "en_how": "The camera moves backward to show a larger scene; elements of the new data fact appear within the larger scene",
+        "zh_why": "摆脱先前数据事实的狭隘视角，提升至更高的视角",
+        "en_why": "Gets rid of the narrow perspective of the prior data fact and raises to a higher view",
+        "example_num": 1,
+        "editorial": ["Camera"],
+        "index": 8
+    },
+    {
+        "zh_name": "硬切",
+        "en_name": "Hard Cut",
+        "zh_how": "沿一个方向移动相机。在相机移动期间，旧数据事实消失，新数据事实出现。",
+        "en_how": "Moving the camera along one direction. During the camera movement, the old data fact diappears and the new data fact occurs.",
+        "zh_why": "用相机的移动来暗示场景的变化",
+        "en_why": "Use camera movement to suggest scene changes",
+        "example_num": 0,
+        "editorial": ["Frame"],
+        "index": 9
+    },
+    {
+        "zh_name": "融解",
+        "en_name": "Dissolve",
+        "zh_how": "沿一个方向移动相机。在相机移动期间，旧数据事实消失，新数据事实出现。",
+        "en_how": "Moving the camera along one direction. During the camera movement, the old data fact diappears and the new data fact occurs.",
+        "zh_why": "用相机的移动来暗示场景的变化",
+        "en_why": "Use camera movement to suggest scene changes",
+        "example_num": 0,
+        "editorial": ["Frame"],
+        "index": 10
+    },
+    {
+        "zh_name": "擦除",
+        "en_name": "Wipe",
+        "zh_how": "沿一个方向移动相机。在相机移动期间，旧数据事实消失，新数据事实出现。",
+        "en_how": "Moving the camera along one direction. During the camera movement, the old data fact diappears and the new data fact occurs.",
+        "zh_why": "用相机的移动来暗示场景的变化",
+        "en_why": "Use camera movement to suggest scene changes",
+        "example_num": 1,
+        "editorial": ["Frame"],
+        "index": 11
+    },
+    {
+        "zh_name": "幕间",
+        "en_name": "Iriss Cut",
+        "zh_how": "沿一个方向移动相机。在相机移动期间，旧数据事实消失，新数据事实出现。",
+        "en_how": "Moving the camera along one direction. During the camera movement, the old data fact diappears and the new data fact occurs.",
+        "zh_why": "用相机的移动来暗示场景的变化",
+        "en_why": "Use camera movement to suggest scene changes",
+        "example_num": 0,
+        "editorial": ["Frame"],
+        "index": 12
+    }
+]

@@ -7,12 +7,12 @@
         "NR_tag": "Similarity",
         "TE_tag": "Contrast Cut",
         "EL_tag": "vis elements",
-        "eg_title": "The UK election explained",
+        "eg_title": "The Fallen of World War II",
         "eg_source": "Finantial Times",
-        "eg_url": "hhttps://www.youtube.com/watch?v=KgLNdnQoElo",
+        "eg_url": "http://www.fallen.io/ww2/",
         "eg_year": 2013,
         "eg_category": "Social Sciences",
-        "eg_subcategory": "Economics"
+        "eg_subcategory": "War"
     },
     {
         "card_id": 2,
@@ -54,10 +54,10 @@
         "DO_tag": {"Dimension Walk": 3},
         "TE_tag": "Cut on Action(vis element)",
         "EL_tag": "vis elements",
-        "eg_title": "Inequality: How Wealth is Distributed in the UK",
-        "eg_source": "The Guardian",
-        "eg_url": "https://www.theguardian.com/commentisfree/video/2013/oct/08/inequality-how-wealth-distributed-uk-animated-video",
-        "eg_year": 2013,
+        "eg_title": "The Numbers Game: The Paradox of Household Income",
+        "eg_source": "PolicyEd",
+        "eg_url": "https://www.youtube.com/watch?v=1DU2IT8rl6c&list=WL&index=4",
+        "eg_year": 2018,
         "eg_category": "Social Sciences",
         "eg_subcategory": "Economics"
     },
@@ -69,12 +69,12 @@
         "NR_tag": "Contrast",
         "TE_tag": "Cut on Action(vis element)",
         "EL_tag": "vis elements",
-        "eg_title": "Why College Is So Expensive In America",
-        "eg_source": "CNBC",
-        "eg_url": "https://www.youtube.com/watch?v=aWJ0OaojfiA",
-        "eg_year": 2019,
+        "eg_title": "The bad map we see every presidential election",
+        "eg_source": "Vox",
+        "eg_url": "https://www.youtube.com/watch?v=hlQE4IGFc5A",
+        "eg_year": 2016,
         "eg_category": "Social Sciences",
-        "eg_subcategory": "Education"
+        "eg_subcategory": "Politics"
     },
     {
         "card_id": 6,
@@ -84,10 +84,10 @@
         "NR_tag": "Contrast",
         "TE_tag": "Flashback",
         "EL_tag": "vis elements",
-        "eg_title": "The UK election explained",
-        "eg_source": "Financial Times",
-        "eg_url": "https://www.youtube.com/watch?v=KgLNdnQoElo",
-        "eg_year": 2017,
+        "eg_title": "https://www.youtube.com/watch?v=qaPQN0aW47I",
+        "eg_source": "Vox",
+        "eg_url": "https://www.youtube.com/watch?v=qaPQN0aW47I",
+        "eg_year": 2019,
         "eg_category": "Social Sciences",
         "eg_subcategory": "Politics"
     },
